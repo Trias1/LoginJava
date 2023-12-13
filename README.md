@@ -11,3 +11,5 @@ http://localhost:5000/api/test/admin
 http://localhost:5000/api/test/mod
 http://localhost:5000/api/test/all
 
+test
+
